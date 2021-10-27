@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kkurpanik
 - 👀 I’m interested in Cloud, Kubernetes, Ansible, CI/CD, Linux
-- 🌱 I’m currently learning Jenkins, AWS
+- 🌱 I’m currently learning AWS, JavaScript
 - 💞️ I’m looking to collaborate on open source or commercial projects
 - 📫 How to reach me: kkurpanik@gmail.com
 
