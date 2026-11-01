@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @kkurpanik
-- 👀 I’m interested in Cloud, Kubernetes, Ansible, CI/CD, Linux, Python, BigData stacks
-- 💞️ I’m looking to collaborate on open source or commercial projects
 - 📫 How to reach me: kkurpanik@gmail.com
 
 <!---
